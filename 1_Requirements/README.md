@@ -7,4 +7,5 @@
    MQ-5 semiconductor sensor is Combustible Gas Sensitive. The MQ-5 gas sensor is made up of SnO2 which has lower conductivity in clean air. A simple electro-circuit is used here which is used to convert the changing conductivity into corresponding output signal of gas concentration. Both Methane and Propane can be detected easily by MQ-5 sensor because it has high sensitivity towards Methane, Propane and Butane. It is a low cost sensor suitable for different application.
  
 # FEATURES
-# .
+ . An LPG gas sensor is a one kind of device which is used to sense the presence of a hazardous LPG gas leak in service station, cars, storage tanks and homes. 
+ . This sensor is attached to an alarm circuit to give an alert to the operators through a buzzer sound in the area where the gas leak is occurring.
