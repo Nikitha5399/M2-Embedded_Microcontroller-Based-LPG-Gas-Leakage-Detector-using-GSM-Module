@@ -7,5 +7,4 @@
    MQ-5 semiconductor sensor is Combustible Gas Sensitive. The MQ-5 gas sensor is made up of SnO2 which has lower conductivity in clean air. A simple electro-circuit is used here which is used to convert the changing conductivity into corresponding output signal of gas concentration. Both Methane and Propane can be detected easily by MQ-5 sensor because it has high sensitivity towards Methane, Propane and Butane. It is a low cost sensor suitable for different application.
  
 # FEATURES
-
 # .
