@@ -13,27 +13,9 @@
 *  The output of the sensor goes LOW as soon as the LPG sensor senses any gas leakage from the storage.
 *  Easy to use.
 
-# COMPONENTS REQUIRED
-
-ATmega16/ATmega32
-
-Microcontroller
-
-MQ-5 LPG SENSOR
-
-Exhaust Fan
-
-Buzzer
-
-LED
-
-GSM Module
-
-Push Button
-
-AVR Contoller
 
 # STATE OF ART/RESEARCH
+
 # SWOT ANALYSIS
 
 ![image](https://user-images.githubusercontent.com/94245015/143778829-9e3f0bd4-2015-4b1a-8859-3d7be5755fb4.png)
