@@ -1,7 +1,8 @@
 # BLOCK DIAGRAM
 
-# Block Diagram for LPG Gas Leakage Detector
-![image](https://user-images.githubusercontent.com/94245015/143779106-f2a97534-2a45-4ef4-9bd1-c54e4867646e.png)
+# Component Diagram
+![image](https://user-images.githubusercontent.com/94245015/143805428-404acfe2-d3b8-46d1-be12-b9cfa04588a9.png)
+
 
 
 # Flow Chart
