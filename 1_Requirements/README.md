@@ -14,14 +14,23 @@
 *  Easy to use.
 
 # COMPONENTS REQUIRED
+
 ATmega16/ATmega32
+
 Microcontroller
+
 MQ-5 LPG SENSOR
+
 Exhaust Fan
+
 Buzzer
+
 LED
+
 GSM Module
+
 Push Button
+
 AVR Contoller
 
 # STATE OF ART/RESEARCH
