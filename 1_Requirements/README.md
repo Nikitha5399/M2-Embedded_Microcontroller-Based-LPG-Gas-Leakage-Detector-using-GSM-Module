@@ -24,7 +24,7 @@
 
 - No environmental effect or no effect of physical conditions.
 
--It is use in vehicles and as well as in houses as LPG leakage detection.
+- It is use in vehicles and as well as in houses as LPG leakage detection.
 
 # WAEKNESS
 
