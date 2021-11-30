@@ -70,8 +70,12 @@
 - If it detects a gas leak, the LED will light up, the buzzer will activate, then the system will send a notification message stating that there has been an LPG gas leak. If       no LPG gas leak is detected, the system will continue to detect the gas level through the LPG gas sensor until it detects an LPG gas leak.
 
 # HIGH LEVEL REQUIREMENTS 
+  - Sensor to detects the gas leakage.
+  - GSM module to send a message to a registered mobile number.
+  - Buzzer to alert the fire has produced.
 
 # LOW LEVEL REQUIREMENTS
+  - LCD to display the message.
 
 
 
