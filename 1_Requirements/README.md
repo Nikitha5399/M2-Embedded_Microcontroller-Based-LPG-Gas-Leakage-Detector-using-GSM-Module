@@ -14,6 +14,9 @@
 
 # STATE OF ART/RESEARCH
 
+![image](https://user-images.githubusercontent.com/94245015/144088408-5831066c-a48d-4419-8517-bab65da67e2d.png)
+
+
 # SWOT ANALYSIS
 
 # STRENGTH 
