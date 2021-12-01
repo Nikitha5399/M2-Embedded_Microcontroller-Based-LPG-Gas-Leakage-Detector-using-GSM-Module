@@ -61,7 +61,7 @@
   - GSM module to send a message to a registered mobile number.
   - Buzzer to alert the fire has produced.
 # LOW LEVEL REQUIREMENTS
-  - LCD to display the message.
+  - LED to display the message.
 
 
 
