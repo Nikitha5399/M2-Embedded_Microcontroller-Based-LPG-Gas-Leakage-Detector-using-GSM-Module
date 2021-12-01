@@ -1,7 +1,7 @@
 # M2-Embedded_Microcontroller-Based-LPG-Gas-Leakage-Detector-using-GSM-Module
- | Build Linux | Cpp Check | Codacy |
- | :---------: | :-------: | :----: |
- | [![Build_linux](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/build_linux.yml/badge.svg)](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/build_linux.yml) | [![StaticcodeCppcheck](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/cppcheck.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c786ec4e514a46d9b228a7513e2653f2)](https://www.codacy.com/gh/Nikitha5399/M2-Embedded_Microcontroller-Based-LPG-Gas-Leakage-Detector-using-GSM-Module/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nikitha5399/M2-Embedded_Microcontroller-Based-LPG-Gas-Leakage-Detector-using-GSM-Module&amp;utm_campaign=Badge_Grade) |
+ | Build Linux | Cpp Check | Codacy | Code Quality Score | Code Grade |
+ | :---------: | :-------: | :----: | :-----------------:| :---------:|
+ | [![Build_linux](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/build_linux.yml/badge.svg)](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/build_linux.yml) | [![StaticcodeCppcheck](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/cppcheck.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c786ec4e514a46d9b228a7513e2653f2)](https://www.codacy.com/gh/Nikitha5399/M2-Embedded_Microcontroller-Based-LPG-Gas-Leakage-Detector-using-GSM-Module/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nikitha5399/M2-Embedded_Microcontroller-Based-LPG-Gas-Leakage-Detector-using-GSM-Module&amp;utm_campaign=Badge_Grade) | ![codequalityscore](https://api.codiga.io/project/30232/score/svg) | ![codegrade](https://api.codiga.io/project/30232/status/svg)
 
 ## Microcontroller Based LPG Gas Leakage Detector using GSM Module
 
