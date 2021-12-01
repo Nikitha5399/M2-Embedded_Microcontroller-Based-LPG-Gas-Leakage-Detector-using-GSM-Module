@@ -1,12 +1,13 @@
 
-PROJ_NAME = Project
+PROJ_NAME = Micro Controller Based LPG Gas Leakage Detector using GSM Module
 
 BUILD_DIR = Build
 
 # All Source code files
-SRC = project_main.c\
-src/user_utils.c\
-src/adc.c
+SRC = Main.c\
+src/adc.c\
+src/lcd.c\
+src/uart.c
 
 # All header file paths
 INC = -I inc
