@@ -1,10 +1,7 @@
 # M2-Embedded_Microcontroller-Based-LPG-Gas-Leakage-Detector-using-GSM-Module
  | Build Linux | Cpp Check | Codacy |
  | :---------: | :-------: | :----: |
- |![Build_linux] (https://github.com/Nikitha5399/M2-Embedded_Microcontroller-Based-LPG-Gas-Leakage-Detector-using-GSM-Module/actions/workflows/build_linux.yml/badge.svg) (https://github.com/Nikitha5399/M2-Embedded_Microcontroller-Based-LPG-Gas-Leakage-Detector-using-GSM-Module/actions/workflows/unit_testing.yml) | ![StaticcodeCppcheck] |
-(https://github.com/Nikitha5399/M2-Embedded_Microcontroller-Based-LPG-Gas-Leakage-Detector-using-GSM-Module/actions/workflows/Valgrid.yml) | [![Codacy Badge]
-
-
+ | [![Build_linux](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/build_linux.yml/badge.svg)](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/build_linux.yml) | [![StaticcodeCppcheck](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Nikitha5399/M1_GAME_ROCKPAPERSCISSORS/actions/workflows/cppcheck.yml) | 
 
 ## Microcontroller Based LPG Gas Leakage Detector using GSM Module
 
