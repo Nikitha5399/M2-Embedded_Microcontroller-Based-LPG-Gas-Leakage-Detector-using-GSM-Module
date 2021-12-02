@@ -1,2 +1,8 @@
-![image](https://user-images.githubusercontent.com/94245015/144356431-235fadc4-e3ed-40cf-9bba-1cedb5d17083.png)
+| **S.NO** | **Components**                    | **Description** | **Quantity** | **Link** |  
+|----------|-----------------------------------|-----------------|--------------|----------|
+|   1      | ATmega328 | Microcontroller | 1 | https://www.electronicscomp.com/atmega328p-microcontroller-india?search=atmega328 |
+|   2      | Choice Selection  | Player=Z, Computer=P | You have lost the game!|
+|   3      |Choice Selection| Player=P, Computer=P| game Draw! | 
+|   4      |Choice Selection| Player=Z, Computer=S| Wow! You have won the game!| 
+
 
