@@ -11,4 +11,3 @@
 |   9      |	Buzzer 	| Sound/Alarm	| 1	| https://www.electronicscomp.com/active-buzzer-module-5v-india?search=buzzer |
 | 10 |	Bread Board	| - |	1	| https://www.electronicscomp.com/400-points-half-size-solderless-breadboard?search=bread%20board&limit=50 |
 | 11 |	Jumper Wires |	Connecting Wires |	20 | https://amzn.to/2L8Xc1p | 
-| 12 | Arduino Board | Arduino UNO R3 Development Board	| 1	| https://amzn.to/3bjpPDS |
